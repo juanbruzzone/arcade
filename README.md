@@ -1,10 +1,8 @@
-# Custom Arcade Game
+# "Catch the Falling Objects" - Arcade Game Build
 
-## Abstract
+## Game Concept
 
-This project is a fully custom arcade game designed, manufactured, and programmed from scratch. It combines C++ code, CAD-designed mechanical components, physical movement, and player interaction into one functioning arcade-style system.
-
-The project required designing the game concept, modeling parts in CAD, manufacturing and assembling the physical components, writing control code, testing the moving mechanisms, and troubleshooting the full system. The final product demonstrates mechanical design, programming, prototyping, debugging, and end-to-end project execution.
+The arcade game, based on Jack and the Beanstalk, was designed to be a classic “catch the falling objects” concept. Golden eggs fall from the clouds down the beanstalks and the user has to control a basket to catch the eggs as they fall. Every egg that passes through the basket adds a point to the player’s tally, and the goal is to catch as many eggs as possible within the 30 second time constraint. We have three manufactured vertical timing belts that rotate throughout the 30 seconds; they have eggs attached to them with magnets on the front. The basket is on a horizontal belt at the bottom of the game, with a hall effect sensor on the side that faces the vertical belts. The basket can move to three set positions in front of each of the bands, sensing the magnet when an egg passes by. At the end of the 30 seconds the basket returns to the middle position and everything stops spinning until the start button is pressed again.
 
 ---
 
