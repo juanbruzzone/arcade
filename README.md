@@ -8,11 +8,13 @@ The arcade game, based on Jack and the Beanstalk, was designed to be a classic â
 
 ## Demo Video
 
-<p align="center">
-  <video width="85%" controls>
-    <source src="videos/arcade-demo.mp4" type="video/mp4">
-  </video>
-</p>
+https://github.com/user-attachments/assets/3501604c-b78e-4854-bf1f-7a648d04de16
+
+
+
+
+
+
 
 ## CAD Drawings - Vertical Band
 
