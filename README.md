@@ -24,16 +24,16 @@ The CAD drawings below show the mechanical design and custom manufactured compon
   <img src="images/Drawing2CAD.png" width="47%">
   <img src="images/Drawing3CAD.png" width="47%">
   <br>
-  <a href="cad/Slotted_Drive_Belt_Orthographic.pdf">PDF Link</a>
+  <a href="cad/Game_Belt_Exploded.pdf">PDF Link</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="cad/Idler_Roller_Orthographic.pdf">PDF Link</a>
+  <a href="cad/Slotted_Drive_Belt_Orthographic.pdf">PDF Link</a>
 </p>
 
 <p align="center">
   <img src="images/Drawing4CAD.png" width="47%">
   <img src="images/Drawing5CAD.png" width="47%">
   <br>
-  <a href="cad/Game_Belt_Exploded.pdf">PDF Link</a>
+  <a href="cad/Idler_Roller_Orthographic.pdf">PDF Link</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="cad/Drive_Sprocket_Orthographic%20(1).pdf">PDF Link</a>
 </p>
