@@ -10,7 +10,7 @@ The arcade game, based on Jack and the Beanstalk, was designed to be a classic â
 
 [Watch the arcade game running](PASTE-VIDEO-LINK-HERE)
 
-## CAD Files
+## CAD Drawings - Vertical Band
 
 The CAD drawings below show the mechanical design and custom manufactured components used in the arcade game build.
 
