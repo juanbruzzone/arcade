@@ -12,7 +12,7 @@ The arcade game, based on Jack and the Beanstalk, was designed to be a classic â
 
 ## CAD Drawings - Vertical Band
 
-The CAD drawings below show the mechanical design and custom manufactured components used in the arcade game build.
+The CAD drawings below show the manufactured components of the vertical band subsystem.
 
 <p align="center">
   <img src="images/Drawing1CAD.png" width="75%">
