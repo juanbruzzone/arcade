@@ -15,19 +15,28 @@ The arcade game, based on Jack and the Beanstalk, was designed to be a classic â
 The CAD drawings below show the mechanical design and custom manufactured components used in the arcade game build.
 
 <p align="center">
-  <img src="images/Drawing1CAD.png" width="49%">
-  <img src="images/Drawing2CAD.png" width="49%">
+  <img src="images/Drawing1CAD.png" width="75%">
+  <br>
+  <a href="cad/Drawing1CAD.pdf">PDF Link</a>
 </p>
 
 <p align="center">
-  <img src="images/Drawing3CAD.png" width="49%">
-  <img src="images/Drawing4CAD.png" width="49%">
+  <img src="images/Drawing2CAD.png" width="47%">
+  <img src="images/Drawing3CAD.png" width="47%">
+  <br>
+  <a href="cad/Drawing2CAD.pdf">PDF Link</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="cad/Drawing3CAD.pdf">PDF Link</a>
 </p>
 
 <p align="center">
-  <img src="images/Drawing5CAD.png" width="49%">
+  <img src="images/Drawing4CAD.png" width="47%">
+  <img src="images/Drawing5CAD.png" width="47%">
+  <br>
+  <a href="cad/Drawing4CAD.pdf">PDF Link</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="cad/Drawing5CAD.pdf">PDF Link</a>
 </p>
----
 
 ## Design Process
 
