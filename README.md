@@ -17,7 +17,7 @@ The CAD drawings below show the manufactured components of the vertical band sub
 <p align="center">
   <img src="images/Drawing1CAD.png" width="75%">
   <br>
-  <a href="file:///C:/Users/juanb/Downloads/Beanstalk/Game_Belt_Orthographic.pdf">PDF Link</a>
+  <a href="Game_Belt_Orthographic.pdf">PDF Link</a>
 </p>
 
 <p align="center">
