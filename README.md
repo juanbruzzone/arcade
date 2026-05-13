@@ -8,9 +8,11 @@ The arcade game, based on Jack and the Beanstalk, was designed to be a classic â
 
 ## Demo Video
 
-<div align="center">
+<p align="center">
+</p>
+
 https://github.com/user-attachments/assets/15b4dece-4412-472e-b0d7-56f506d2c8a4
-</div>
+
 
 
 
