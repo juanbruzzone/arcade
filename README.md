@@ -90,16 +90,15 @@ The team also changed several gameplay components during iteration. The original
 
 ### Final Build
 
+<p align="left">
+  <img src="images/FinalBuild2.jpeg" align="left" width="35%" style="margin-right: 20px; margin-bottom: 10px;">
+
 The final arcade game successfully combined mechanical motion, electronics, programming, and physical manufacturing into one functioning interactive system. The game operated on a timed 30-second cycle in which players controlled the basket position to catch magnetic eggs moving down the vertical bands.
 
 One of the strongest aspects of the final build was the horizontal basket movement system, which provided the precision necessary for reliable gameplay. The final product also demonstrated successful integration of multiple motors, sensors, custom-manufactured components, and C++ control logic.
 
 Although some mechanical and visual imperfections remained, the completed game represented a major hands-on engineering project involving CAD modeling, fabrication, electronics integration, programming, troubleshooting, and iterative design. The project also provided valuable experience in teamwork, prototyping, manufacturing, and system-level problem solving.
 
-<p align="center">
-  <img src="images/FinalBuild1.JPG" height="350">
-  <img src="images/FinalBuild2.jpeg" height="350">
-   <img src="images/FinalBuild3.JPG" height="350">
 </p>
 
 ## Bill of Materials
