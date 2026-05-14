@@ -45,8 +45,8 @@ The game was programmed in C++.
 The code controls the logic of the arcade game, including player input, movement timing, system response, and reset behavior. It is split into two different circuits to deal with varying voltage levels and interference from the motors onto the sensor.
 
 <p align="center">
-  <img src="images/wiring1.jpeg" width="47%">
-  <img src="images/wiring2.jpeg" width="47%">
+  <img src="images/wiring1.jpeg" width="35%">
+  <img src="images/wiring2.jpeg" width="35%">
 </p>
 
 ### C++ Code Files
