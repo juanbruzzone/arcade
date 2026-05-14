@@ -107,16 +107,16 @@ Write about the completed version of the game. Explain what worked well, what yo
 | DIANN dual DC stepper motor | Amazon | $2.70 | 3 | $8 |
 | 12v Power Supply | Amazon | $9 | 1 | $9 |
 | 5050 RGB LED | Amazon | $6 | 1 | $6 |
-| GT2 Timing Belt | Amazon | $0.61 per ft | 6 ft | $3.66 |
+| GT2 Timing Belt | Amazon | $0.61 per foot | 6 ft | $3.66 |
 | MAKERELE nema stepper motor | Amazon | $10 | 1 | $10 |
 | Hall effect sensor | Amazon | $0.40 | 1 | $0.40 |
 | Button | Amazon | $4 | 1 | $4 |
 | Canvas drop cloth | Amazon | $15 | Around ⅓ | $5 |
-| Magnets | Cadens Kit | - | 20 | - |
-| Arduino | Kit | - | 2 | - |
-| Breadboard | Kit | - | 2 | - |
-| LCD Display | Kit | - | 1 | - |
-| Basic speaker | Kit | - | 1 | - |
+| Magnets | Arduino Kit | - | 20 | - |
+| Arduino | Arduino Kit | - | 2 | - |
+| Breadboard | Arduino Kit | - | 2 | - |
+| LCD Display | Arduino Kit | - | 1 | - |
+| Basic speaker | Arduino Kit | - | 1 | - |
 | Paper (Golden Eggs) | Lab | - | - | - |
 | Sprocket axles | 3D print (lab) | - | 6 | - |
 | Sprocket Pegs | 3D Print (lab) | - | 9 | - |
