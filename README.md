@@ -73,7 +73,7 @@ We designed and manufactured many of the physical components from scratch, inclu
 Another important mechanical challenge involved wire routing and interference. The hall effect sensor wiring originally interfered with the movement of the basket system, so additional slack was added and dowels were used to redirect the wires underneath the bands and away from moving components.
 
 
-https://github.com/user-attachments/assets/19cc23f9-82be-42d3-9d43-08389c1d29de
+https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 
 
 ---
