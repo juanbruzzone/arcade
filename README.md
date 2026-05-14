@@ -99,6 +99,7 @@ Although some mechanical and visual imperfections remained, the completed game r
 <p align="center">
   <img src="images/FinalBuild1.JPG" height="350">
   <img src="images/FinalBuild2.jpeg" height="350">
+   <img src="images/FinalBuild3.JPG" height="350">
 </p>
 
 ## Bill of Materials
