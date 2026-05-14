@@ -43,20 +43,17 @@ The CAD drawings below show the mechanical design and custom manufactured compon
 
 The game was programmed in C++.
 
-The code controls the logic of the arcade game, including player input, movement timing, system response, and reset behavior. The software had to be reliable because it directly controlled physical components.
+The code controls the logic of the arcade game, including player input, movement timing, system response, and reset behavior. It is split into two different circuits to deal with varying voltage levels and interference from the motors onto the sensor.
 
-Key programming responsibilities included:
+<p align="center">
+  <img src="images/wiring1.jpeg" width="47%">
+  <img src="images/wiring2.jpeg" width="47%">
+</p>
 
-- Reading player inputs
-- Controlling moving components
-- Managing game state
-- Timing actions correctly
-- Resetting the game after each round
-- Debugging hardware/software interaction
+### C++ Code Files
 
-[View C++ Code](code/main.cpp)
-
----
+- [Main Arcade Game Code](code/main.cpp)
+- [Motor/Sensor Control Code](code/motor-sensor-control.cpp)
 
 ## Design Process
 
