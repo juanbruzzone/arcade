@@ -39,6 +39,25 @@ The CAD drawings below show the mechanical design and custom manufactured compon
   <a href="cad/Drive_Sprocket_Orthographic%20(1).pdf">PDF Link</a>
 </p>
 
+## Programming/Electronics
+
+The game was programmed in C++.
+
+The code controls the logic of the arcade game, including player input, movement timing, system response, and reset behavior. The software had to be reliable because it directly controlled physical components.
+
+Key programming responsibilities included:
+
+- Reading player inputs
+- Controlling moving components
+- Managing game state
+- Timing actions correctly
+- Resetting the game after each round
+- Debugging hardware/software interaction
+
+[View C++ Code](code/main.cpp)
+
+---
+
 ## Design Process
 
 ### Initial Concept
@@ -56,40 +75,6 @@ Write about how you designed the moving physical components. Explain what parts 
 Discuss any important CAD decisions, spacing, alignment, tolerances, or structural concerns.
 
 ![Mechanical Design](images/mechanical-design.jpg)
-
----
-
-### Electronics and Controls
-
-Write about the electronic components and control system. Explain what inputs the player uses, what outputs the system controls, and how the code interacts with the physical game.
-
-Examples to discuss:
-- buttons, joystick, or sensors
-- motors or actuators
-- wiring
-- microcontroller
-- timing and reset logic
-
-![Electronics](images/electronics.jpg)
-
----
-
-### Programming
-
-The game was programmed in C++.
-
-The code controls the logic of the arcade game, including player input, movement timing, system response, and reset behavior. The software had to be reliable because it directly controlled physical components.
-
-Key programming responsibilities included:
-
-- Reading player inputs
-- Controlling moving components
-- Managing game state
-- Timing actions correctly
-- Resetting the game after each round
-- Debugging hardware/software interaction
-
-[View C++ Code](code/main.cpp)
 
 ---
 
@@ -133,13 +118,4 @@ Write about the completed version of the game. Explain what worked well, what yo
 
 ---
 
-## Skills Demonstrated
 
-- C++ programming
-- CAD modeling
-- Mechanical design
-- Physical prototyping
-- Electronics integration
-- System troubleshooting
-- Iterative design
-- Technical documentation# arcade
