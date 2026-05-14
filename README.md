@@ -99,19 +99,32 @@ Write about the completed version of the game. Explain what worked well, what yo
 
 ## Bill of Materials
 
-| Item | Quantity | Purpose | Notes |
-|---|---:|---|---|
-| Microcontroller | 1 | Runs game logic | Arduino / other board |
-| Motor | 1 | Controls movement | Replace with exact type |
-| Motor driver | 1 | Powers motor | Replace with exact model |
-| Buttons / joystick | 1 | Player input | Replace with exact input |
-| Wires | Various | Electrical connections |  |
-| Frame material | Various | Physical structure | Wood / acrylic / 3D print |
-| Fasteners | Various | Assembly | Screws, nuts, bolts |
-| Custom CAD parts | Various | Game mechanism | 3D printed / laser cut |
-| Power supply | 1 | Powers system | Replace with voltage |
-| Miscellaneous materials | Various | Finishing and assembly |  |
+| Item | Source | Unit Cost | Quantity | Total Cost |
+|---|---|---:|---:|---:|
+| Particle wood board | Home Depot | $8.52 | Around ⅔ | $6 |
+| 1x1 inch by 14ft wooden plank | Home Depot | $2 per foot | 6 ft | $12 |
+| Acxico mini micro gear motor | Amazon | $3 | 3 | $10 |
+| DIANN dual DC stepper motor | Amazon | $2.70 | 3 | $8 |
+| 12v Power Supply | Amazon | $9 | 1 | $9 |
+| 5050 RGB LED | Amazon | $6 | 1 | $6 |
+| GT2 Timing Belt | Amazon | $0.61 per ft | 6 ft | $3.66 |
+| MAKERELE nema stepper motor | Amazon | $10 | 1 | $10 |
+| Hall effect sensor | Amazon | $0.40 | 1 | $0.40 |
+| Button | Amazon | $4 | 1 | $4 |
+| Canvas drop cloth | Amazon | $15 | Around ⅓ | $5 |
+| Magnets | Cadens Kit | - | 20 | - |
+| Arduino | Kit | - | 2 | - |
+| Breadboard | Kit | - | 2 | - |
+| LCD Display | Kit | - | 1 | - |
+| Basic speaker | Kit | - | 1 | - |
+| Paper (Golden Eggs) | Lab | - | - | - |
+| Sprocket axles | 3D print (lab) | - | 6 | - |
+| Sprocket Pegs | 3D Print (lab) | - | 9 | - |
+| ¼ inch dowels | Lab | - | 7 | - |
+| 9V power adapter | Lab | - | 3 | - |
+| Paint | Lab | - | - | - |
+| Hot glue | Lab | - | - | - |
+| Wire | Lab | - | - | - |
+| 1.5” nails | Lab | - | - | - |
 
----
-
-
+### Total Cost: $74.06
