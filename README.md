@@ -49,10 +49,10 @@ The code controls the logic of the arcade game, including player input, movement
   <img src="images/wiring2.jpeg" width="35%">
 </p>
 
-### C++ Code Files
+### Arduino Code Files
 
-- [Main Arcade Game Code](code/main.cpp)
-- [Motor/Sensor Control Code](code/motor-sensor-control.cpp)
+- [Main Game Code](code/HorizontalBandCode.ino)
+- [Sensor/Motor Circuit Code](code/VerticalBandCode.ino)
 
 ## Design Process
 
