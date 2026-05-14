@@ -58,44 +58,43 @@ The code controls the logic of the arcade game, including player input, movement
 
 ### Initial Concept
 
-Write about the original goal of the project here. Explain what kind of arcade game you wanted to build, what the player experience was supposed to be, and what major functions the game needed to perform.
+The original goal of the project was to create a classic “catch the falling objects” arcade game inspired by *Jack and the Beanstalk*. Golden eggs would travel down moving vertical bands while the player controlled a basket that moved horizontally across the bottom of the game. The basket had to align with the falling eggs and detect them using a hall effect sensor and magnets attached to the eggs.
 
-![Initial Sketch](images/initial-sketch.jpg)
+From the beginning, the project required the integration of multiple subsystems: moving mechanical components, sensors, motors, timing systems, and game logic written in C++. The player experience was intended to feel fast-paced and interactive while still being mechanically reliable.
 
 ---
 
 ### Mechanical Design
 
-Write about how you designed the moving physical components. Explain what parts had to move, how they were connected, and why you chose your specific design.
+The mechanical design centered around four belt-driven systems working together simultaneously. Three vertical timing belts rotated continuously to simulate falling eggs, while a horizontal belt moved the basket between three fixed positions. Precision and alignment were critical because the hall effect sensor needed to line up exactly with the magnets attached to the eggs.
 
-Discuss any important CAD decisions, spacing, alignment, tolerances, or structural concerns.
+The team designed and manufactured many of the physical components from scratch, including the vertical bands, sprockets, and support systems. CAD modeling was used extensively to design the assemblies, spacing, and alignment of the moving systems. One important design decision was leaving the top of the game unattached so the internal systems could be accessed easily for troubleshooting and repairs without disassembling the entire structure.
 
-![Mechanical Design](images/mechanical-design.jpg)
+Another important mechanical challenge involved wire routing and interference. The hall effect sensor wiring originally interfered with the movement of the basket system, so additional slack was added and dowels were used to redirect the wires underneath the bands and away from moving components.
 
 ---
 
 ### Prototyping and Testing
 
-Write about how the design changed over time. This is where you should show iteration.
+The project required significant iteration and troubleshooting throughout the build process. Many ideas that worked conceptually on paper revealed practical problems once the systems were physically assembled.
 
-Good things to mention:
-- what failed at first
-- what you had to redesign
-- what you tested repeatedly
-- how you improved reliability
-- how the final version differed from the first idea
+One recurring issue involved the custom-manufactured vertical bands. Because they were built from scratch, they occasionally wobbled during rotation, which sometimes caused the sensor to miss the magnets. The team repeatedly adjusted alignment, spacing, and support structures to improve reliability.
 
-![Prototype](images/prototype.jpg)
+Electrical interference was another major challenge. The motors driving the vertical bands created interference with the LCD display and hall effect sensor when connected to the same circuit. To solve this, the electronics were separated into two independent circuits operating on the same timer system. Although this solution worked, it required two simultaneous inputs to start the game instead of one unified control system.
+
+The project also went through several major design simplifications during prototyping. The original concept included five vertical belts and a much larger six-foot-tall structure. As testing progressed, the team realized that the scale made the project unnecessarily difficult to troubleshoot and prone to mechanical failure. The final design was condensed to three belts and a smaller tabletop structure to improve reliability and manufacturability.
+
+The team also changed several gameplay components during iteration. The original plan used three-dimensional eggs and basket systems, but these were redesigned into flatter two-dimensional components to reduce physical interference and simplify movement.
 
 ---
 
 ### Final Build
 
-Write about the completed version of the game. Explain what worked well, what you were proud of, and how the final product met the original goal.
+The final arcade game successfully combined mechanical motion, electronics, programming, and physical manufacturing into one functioning interactive system. The game operated on a timed 30-second cycle in which players controlled the basket position to catch magnetic eggs moving down the vertical bands.
 
-![Final Build](images/final-build.jpg)
+One of the strongest aspects of the final build was the horizontal basket movement system, which provided the precision necessary for reliable gameplay. The final product also demonstrated successful integration of multiple motors, sensors, custom-manufactured components, and C++ control logic.
 
----
+Although some mechanical and visual imperfections remained, the completed game represented a major hands-on engineering project involving CAD modeling, fabrication, electronics integration, programming, troubleshooting, and iterative design. The project also provided valuable experience in teamwork, prototyping, manufacturing, and system-level problem solving.
 
 ## Bill of Materials
 
