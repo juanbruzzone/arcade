@@ -97,8 +97,8 @@ One of the strongest aspects of the final build was the horizontal basket moveme
 Although some mechanical and visual imperfections remained, the completed game represented a major hands-on engineering project involving CAD modeling, fabrication, electronics integration, programming, troubleshooting, and iterative design. The project also provided valuable experience in teamwork, prototyping, manufacturing, and system-level problem solving.
 
 <p align="center">
-  <img src="images/FinalBuild1.JPG" width="45%">
-  <img src="images/FinalBuild2.jpeg" width="45%">
+  <img src="images/FinalBuild1.jpg" height="350">
+  <img src="images/FinalBuild2.jpeg" height="350">
 </p>
 
 ## Bill of Materials
