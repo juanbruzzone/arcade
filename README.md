@@ -117,7 +117,7 @@ Write about the completed version of the game. Explain what worked well, what yo
 | Breadboard | Arduino Kit | - | 2 | - |
 | LCD Display | Arduino Kit | - | 1 | - |
 | Basic speaker | Arduino Kit | - | 1 | - |
-| Joystick | Kit | - | 1 | - |
+| Joystick | Arduino Kit | - | 1 | - |
 | Paper (Golden Eggs) | Lab | - | - | - |
 | Sprocket axles | 3D print (lab) | - | 6 | - |
 | Sprocket Pegs | 3D Print (lab) | - | 9 | - |
