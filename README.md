@@ -68,9 +68,13 @@ From the beginning, the project required the integration of multiple subsystems:
 
 The mechanical design centered around four belt-driven systems working together simultaneously. Three vertical timing belts rotated continuously to simulate falling eggs, while a horizontal belt moved the basket between three fixed positions. Precision and alignment were critical because the hall effect sensor needed to line up exactly with the magnets attached to the eggs.
 
-The team designed and manufactured many of the physical components from scratch, including the vertical bands, sprockets, and support systems. CAD modeling was used extensively to design the assemblies, spacing, and alignment of the moving systems. One important design decision was leaving the top of the game unattached so the internal systems could be accessed easily for troubleshooting and repairs without disassembling the entire structure.
+We designed and manufactured many of the physical components from scratch, including the vertical bands, sprockets, and support systems. CAD modeling was used extensively to design the assemblies, spacing, and alignment of the moving systems. One important design decision was leaving the top of the game unattached so the internal systems could be accessed easily for troubleshooting and repairs without disassembling the entire structure.
 
 Another important mechanical challenge involved wire routing and interference. The hall effect sensor wiring originally interfered with the movement of the basket system, so additional slack was added and dowels were used to redirect the wires underneath the bands and away from moving components.
+
+
+https://github.com/user-attachments/assets/19cc23f9-82be-42d3-9d43-08389c1d29de
+
 
 ---
 
