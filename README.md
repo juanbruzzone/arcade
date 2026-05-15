@@ -80,17 +80,24 @@ https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 
 ### Prototyping and Testing
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 The project required significant iteration and troubleshooting throughout the build process. Many ideas that worked conceptually on paper revealed practical problems once the systems were physically assembled.
 
 One recurring issue involved the custom-manufactured vertical bands. Because they were built from scratch, they occasionally wobbled during rotation, which sometimes caused the sensor to miss the magnets. The team repeatedly adjusted alignment, spacing, and support structures to improve reliability.
 
-Electrical interference was another major challenge. The motors driving the vertical bands created interference with the LCD display and hall effect sensor when connected to the same circuit. To solve this, the electronics were separated into two independent circuits operating on the same timer system. Although this solution worked, it required two simultaneous inputs to start the game instead of one unified control system.
+Electrical interference was another major challenge. The motors driving the vertical bands created interference with the LCD display and hall effect sensor when connected to the same circuit. To solve this, the electronics were separated into two independent circuits operating on the same timer system.
 
-The project also went through several major design simplifications during prototyping. The original concept included five vertical belts and a much larger six-foot-tall structure. As testing progressed, the team realized that the scale made the project unnecessarily difficult to troubleshoot and prone to mechanical failure. The final design was condensed to three belts and a smaller tabletop structure to improve reliability and manufacturability.
-
-The team also changed several gameplay components during iteration. The original plan used three-dimensional eggs and basket systems, but these were redesigned into flatter two-dimensional components to reduce physical interference and simplify movement.
-
----
+    </td>
+    <td width="40%" valign="top">
+      <img src="images/Prototype1.jpeg" width="100%">
+      <br><br>
+      <img src="images/Prototype2.JPG" width="100%">
+    </td>
+  </tr>
+</table>
 
 ### Final Build
 
