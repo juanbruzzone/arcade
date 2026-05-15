@@ -58,20 +58,20 @@ The code controls the logic of the arcade game, including player input, movement
 
 ### Initial Concept
 
-- Designed a custom “catch the falling objects” arcade game inspired by *Jack and the Beanstalk*, combining physical gameplay with embedded programming and mechanical motion.
-- Developed a 30-second player experience in which golden eggs moved down vertical bands while the player controlled a basket across three fixed positions.
-- Integrated multiple subsystems from the start: C++ game logic, motors, timing belts, magnets, hall effect sensing, player input, and physical scoring logic.
-- Built the concept around precision: the basket had to align with magnetic eggs in real time for the sensor to register successful catches.
+- The goal was to build a classic “catch the falling objects” arcade game inspired by *Jack and the Beanstalk*.
+- Golden eggs would move down the vertical bands, while the player controlled a basket that moved horizontally across the bottom of the game.
+- The basket had to stop at three fixed positions and use a hall effect sensor to detect the magnets attached to the eggs.
+- From the beginning, the game required mechanical movement, electronics, sensor logic, timing systems, and C++ code to work together.
 
 ---
 
 ### Mechanical Design
 
-- Engineered four belt-driven systems to operate together: three vertical bands for the falling eggs and one horizontal belt for basket movement.
-- Designed and manufactured key custom components, including vertical bands, sprockets, supports, and alignment structures.
-- Used CAD modeling to plan spacing, part geometry, assembly fit, and movement paths before fabrication.
-- Improved serviceability by leaving the top structure removable, allowing quick access to internal mechanisms during testing and repair.
-- Solved wire-interference issues by adding slack to the hall effect sensor wiring and routing it around the moving systems with dowel supports.
+- The mechanical design centered around four belt-driven systems: three vertical belts for the eggs and one horizontal belt for the basket.
+- We designed and manufactured several of the main parts ourselves, including the vertical bands, sprockets, and support structures.
+- CAD modeling helped us plan the spacing, alignment, and movement paths before building the physical system.
+- One helpful design decision was leaving the top of the game unattached, which made it much easier to access the inside of the game during testing.
+- The hall effect sensor wiring also needed to move with the basket, so we added extra slack and routed the wires around the moving parts to reduce interference.
 
 https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 
@@ -79,12 +79,12 @@ https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 
 ### Prototyping and Testing
 
-- Iterated heavily as the design moved from concept to physical build, using testing to identify issues that were not visible on paper.
-- Refined the custom vertical bands after early versions introduced minor wobble during rotation, improving alignment and sensor reliability.
-- Adjusted spacing, support structures, and magnet placement to make the hall effect sensor more consistent during gameplay.
-- Solved electrical interference from the motors by separating the system into two circuits while keeping both synchronized under the same timing structure.
-- Simplified the original design from five vertical belts to three, improving reliability, spacing, and overall manufacturability.
-- Shifted from 3D eggs and basket components to flatter 2D designs to reduce physical interference and create smoother gameplay.
+- A lot of the project changed once we moved from the idea on paper to the physical build.
+- The vertical bands took the most iteration because small alignment issues could affect how smoothly they rotated and how consistently the sensor detected the magnets.
+- We adjusted the spacing, supports, and magnet placement several times to make the game more reliable.
+- We also ran into electrical interference from the motors, which affected the LCD display and hall effect sensor when everything was connected to one circuit.
+- To solve this, we separated the electronics into two circuits while keeping them connected to the same timing system.
+- The final version was also simplified from the original concept. We moved from five vertical belts to three and used flatter egg and basket designs to reduce physical interference and improve consistency.
 
 <p align="center">
   <img src="images/Prototype1.jpeg" width="47%">
@@ -102,12 +102,12 @@ https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
     </td>
     <td width="62%" valign="top">
       <ul>
-        <li>Built a complete arcade game that combined mechanical motion, electronics, programming, and physical fabrication into one functioning interactive system.</li>
-        <li>Programmed a timed 30-second gameplay cycle in which players moved the basket between three positions to catch magnetic eggs traveling down the vertical bands.</li>
-        <li>Integrated multiple motors, sensors, custom-manufactured components, and C++ control logic into a coordinated system.</li>
-        <li>Created a precise horizontal basket movement system that allowed the sensor to reach accurate catching positions during gameplay.</li>
-        <li>Overcame mechanical alignment, wiring, voltage, and interference challenges through repeated testing, redesign, and troubleshooting.</li>
-        <li>Completed a hands-on engineering build that strengthened skills in CAD modeling, fabrication, electronics, Arduino/C++ programming, prototyping, and system-level problem solving.</li>
+        <li>The final arcade game combined mechanical motion, electronics, programming, and physical fabrication into one working system.</li>
+        <li>The game runs on a 30-second cycle, during which the player moves the basket between three positions to catch magnetic eggs traveling down the vertical bands.</li>
+        <li>The horizontal basket system became one of the strongest parts of the final design because it moved precisely enough for the sensor to reach each catching position.</li>
+        <li>The final build brought together multiple motors, sensors, custom parts, and C++ control logic.</li>
+        <li>Throughout the build, we improved the system by solving alignment, wiring, voltage, and interference problems through testing and redesign.</li>
+        <li>By the end of the project, the game successfully met the original goal of creating an interactive physical arcade game from scratch.</li>
       </ul>
     </td>
   </tr>
