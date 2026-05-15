@@ -72,6 +72,7 @@ The code controls the logic of the arcade game, including player input, movement
 - CAD modeling helped us plan the spacing, alignment, and movement paths before building the physical system.
 - One helpful design decision was leaving the top of the game unattached, which made it much easier to access the inside of the game during testing.
 - The hall effect sensor wiring also needed to move with the basket, so we added extra slack and routed the wires around the moving parts to reduce interference.
+- Below is a video of the horizontal belt working for the first time during early build stages.
 
 https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 
@@ -85,6 +86,7 @@ https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 - We also ran into electrical interference from the motors, which affected the LCD display and hall effect sensor when everything was connected to one circuit.
 - To solve this, we separated the electronics into two circuits while keeping them connected to the same timing system.
 - The final version was also simplified from the original concept. We moved from five vertical belts to three and used flatter egg and basket designs to reduce physical interference and improve consistency.
+- Below are images of the build along the way. Most of the components are in place already, but this was before precision alignment and fine tuning.
 
 <p align="center">
   <img src="images/Prototype1.jpeg" width="47%">
