@@ -80,24 +80,16 @@ https://github.com/user-attachments/assets/63af64f7-019d-4e8d-bfbd-29849f61da64
 
 ### Prototyping and Testing
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 The project required significant iteration and troubleshooting throughout the build process. Many ideas that worked conceptually on paper revealed practical problems once the systems were physically assembled.
 
 One recurring issue involved the custom-manufactured vertical bands. Because they were built from scratch, they occasionally wobbled during rotation, which sometimes caused the sensor to miss the magnets. The team repeatedly adjusted alignment, spacing, and support structures to improve reliability.
 
 Electrical interference was another major challenge. The motors driving the vertical bands created interference with the LCD display and hall effect sensor when connected to the same circuit. To solve this, the electronics were separated into two independent circuits operating on the same timer system.
 
-</td>
-<td width="40%" valign="top">
-<img src="images/Prototype1.jpeg" width="100%">
-<br><br>
-<img src="images/Prototype2.JPG" width="100%">
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="images/Prototype1.jpeg" width="47%">
+  <img src="images/Prototype2.JPG" width="47%">
+</p>
 
 ---
 
