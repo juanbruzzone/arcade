@@ -91,13 +91,17 @@ One recurring issue involved the custom-manufactured vertical bands. Because the
 Electrical interference was another major challenge. The motors driving the vertical bands created interference with the LCD display and hall effect sensor when connected to the same circuit. To solve this, the electronics were separated into two independent circuits operating on the same timer system.
 
     </td>
+
     <td width="40%" valign="top">
       <img src="images/Prototype1.jpeg" width="100%">
       <br><br>
       <img src="images/Prototype2.JPG" width="100%">
     </td>
+
   </tr>
 </table>
+
+---
 
 ### Final Build
 
